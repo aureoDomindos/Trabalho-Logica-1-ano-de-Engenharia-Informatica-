@@ -1,4 +1,4 @@
-algoritmo "Labirinto Escola"
+algoritmo "Caminho em labirinto"
 
 var
    labirinto: vetor[1..10, 1..10] de inteiro
